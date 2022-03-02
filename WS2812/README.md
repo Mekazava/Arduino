@@ -1,1 +1,1 @@
-# Arduino
+Based on https://github.com/AlexGyver/WS2812_FX/ with my fixes
